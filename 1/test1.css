@@ -1,0 +1,15 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+div
+{
+	float: left;
+	width: 31%;
+    padding-top: 31%;
+    margin: 1%;
+	background-color: #FFA600;
+	border-radius:15%; 
+	
+}	
